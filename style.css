@@ -17,6 +17,10 @@
     grid-column: 2 / 3;
 }
 
+.sidebar {
+    grid-row: 1 / -1;
+}
+
 .mainContent {
     grid-row: 2 / 3;
     grid-column: 2 / 3;
