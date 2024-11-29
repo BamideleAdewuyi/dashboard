@@ -67,3 +67,7 @@ a {
     display: flex;
     justify-content: center;
 }
+
+.smallImage {
+    position: relative;
+}
