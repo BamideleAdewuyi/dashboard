@@ -90,6 +90,7 @@ a {
 input {
     height: 25px;
     width: 50%;
+    border-radius: 20px;
 }
 
 .searchForm {
