@@ -35,6 +35,11 @@
     filter: invert(1);
 }
 
+.smallImage {
+    width: 25px;
+    height: 25px;
+}
+
 #dashboardIcon {
     width: 40px;
     height: 40px;
