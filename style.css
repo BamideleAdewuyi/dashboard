@@ -32,10 +32,12 @@
 }
 
 .whiteImage {
-    filter: invert(1)
+    filter: invert(1);
 }
 
 #dashboardIcon {
     width: 40px;
     height: 40px;
+    position: relative;
+    top: 8px;
 }
