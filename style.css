@@ -68,6 +68,10 @@ a {
     justify-content: center;
 }
 
+.sidebarListItem {
+    margin-bottom: 15px;
+}
+
 .smallImage {
     position: relative;
     right: 25px;
