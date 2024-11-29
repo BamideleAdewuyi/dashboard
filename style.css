@@ -4,8 +4,12 @@
     outline: 1px solid red;
 }
 
-body {
+.container {
     display: grid;
     grid-template-columns: 1fr 4fr;
     grid-template-rows: 1fr 4fr;
+}
+
+.header {
+    grid-area: 1 / 2 / 2 / 3;
 }
