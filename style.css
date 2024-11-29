@@ -17,3 +17,7 @@
 .sidebar {
     grid-area: 1 / 1 / -1 / 2;
 }
+
+.mainContent {
+    grid-area: 2 / 2 / 3 / 2;
+}
