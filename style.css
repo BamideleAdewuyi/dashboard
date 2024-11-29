@@ -87,6 +87,10 @@ a {
     margin-bottom: 60px;
 }
 
+input {
+    height: 25px;
+}
+
 .searchForm {
     display: flex;
     margin-left: 50px;
