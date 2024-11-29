@@ -89,6 +89,7 @@ a {
 
 .searchForm {
     display: flex;
+    margin-left: 50px;
 }
 
 #searchButton {
