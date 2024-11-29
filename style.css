@@ -86,3 +86,7 @@ a {
 #listBreak {
     margin-bottom: 60px;
 }
+
+.searchForm {
+    display: flex;
+}
