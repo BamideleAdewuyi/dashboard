@@ -3,6 +3,7 @@
     margin: 0;
     outline: 1px solid red;
     font-family: "Roboto", sans-serif;
+    box-sizing: border-box;
 }
 
 ul {
@@ -28,7 +29,11 @@ a {
     grid-column: 2 / 3;
     display: grid;
     grid-template-rows: 1fr 1fr;
-    overflow: auto;
+    overflow: visible;
+}
+
+.topHalf {
+    display: flex;
 }
 
 .sidebar {
