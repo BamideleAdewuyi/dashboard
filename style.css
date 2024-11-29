@@ -113,6 +113,11 @@ input {
 
 #alertBar {
     outline: 2px solid green;
-    height: 100%;
-    width: 40%;
+    display: flex;
+    position: relative;
+}
+
+.alertImages {
+    width: 25px;
+    height: 25px;
 }
