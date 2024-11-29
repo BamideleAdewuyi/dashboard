@@ -113,4 +113,5 @@ input {
 
 #alertBar {
     outline: 2px solid green;
+    width: 40%;
 }
