@@ -29,7 +29,6 @@ a {
     grid-column: 2 / 3;
     display: grid;
     grid-template-rows: 1fr 1fr;
-    overflow: visible;
 }
 
 .topHalf {
