@@ -71,6 +71,7 @@ a {
 
 .secondSidebarList {
     display: flex;
+    justify-content: center;
 }
 
 .sidebarListItem {
