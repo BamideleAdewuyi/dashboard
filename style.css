@@ -98,7 +98,7 @@ input {
 
 .searchForm {
     display: flex;
-    padding-top: 20px;
+    align-items: center;
     padding-left: 50px;
     height: 100%;
     width: 60%;
@@ -114,7 +114,6 @@ input {
 #alertBar {
     display: flex;
     align-items: center;
-    
 }
 
 .alertImage {
