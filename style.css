@@ -50,6 +50,10 @@ a {
     height: 25px;
 }
 
+#sidebarHeading{
+    display: flex;
+}
+
 #dashboardIcon {
     width: 40px;
     height: 40px;
