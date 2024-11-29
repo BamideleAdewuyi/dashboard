@@ -90,6 +90,7 @@ a {
 .searchForm {
     display: flex;
     margin-left: 50px;
+    height: 50%;
 }
 
 #searchButton {
