@@ -87,3 +87,7 @@ a {
 #listBreak {
     margin-bottom: 60px;
 }
+
+#magnify {
+    display: block;
+}
