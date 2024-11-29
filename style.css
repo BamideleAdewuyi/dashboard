@@ -56,6 +56,9 @@ a {
 .smallImage {
     width: 25px;
     height: 25px;
+    position: relative;
+    right: 25px;
+    top: 5px;
 }
 
 #sidebarHeading{
@@ -83,10 +86,4 @@ a {
 
 #listBreak {
     margin-bottom: 60px;
-}
-
-.smallImage {
-    position: relative;
-    right: 25px;
-    top: 5px;
 }
