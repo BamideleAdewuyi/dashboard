@@ -73,6 +73,10 @@ a {
     margin-bottom: 15px;
 }
 
+#listBreak {
+    margin-bottom: 60px;
+}
+
 .smallImage {
     position: relative;
     right: 25px;
