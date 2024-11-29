@@ -63,13 +63,8 @@ a {
     right: 15px;
 }
 
-.mainSidebarList {
+.sidebarList {
     margin-top: 50px;
-    display: flex;
-    justify-content: center;
-}
-
-.secondSidebarList {
     display: flex;
     justify-content: center;
 }
