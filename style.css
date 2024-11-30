@@ -156,3 +156,7 @@ input {
 #greeting {
     font-size: small;
 }
+
+#name {
+    font-size: large;
+}
