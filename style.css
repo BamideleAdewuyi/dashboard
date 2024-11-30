@@ -92,6 +92,7 @@ a {
 .projectText {
     display: flex;
     flex-direction: column;
+    height: fit-content;
 }
 
 .projectIcons {
