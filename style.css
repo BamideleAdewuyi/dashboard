@@ -67,6 +67,10 @@ a {
     grid-template-rows: 1fr 4fr 1fr 4fr;
 }
 
+.projects {
+    display: grid;
+}
+
 .whiteImage {
     filter: invert(1);
 }
