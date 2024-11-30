@@ -64,6 +64,7 @@ a {
 
 .mainRight {
     display: grid;
+    grid-template-rows: 1fr 4fr 1fr 4fr;
 }
 
 .whiteImage {
