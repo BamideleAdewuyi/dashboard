@@ -93,6 +93,11 @@ a {
     display: flex;
 }
 
+.projectIcon {
+    width: 25px;
+    height: 25px;
+}
+
 .whiteImage {
     filter: invert(1);
 }
