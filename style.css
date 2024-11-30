@@ -171,6 +171,7 @@ input {
 
 .headerButton {
     background-color: rgb(20, 151, 222);
+    font-size: 13px;
     width: 4em;
     height: 2em;
     text-align: center;
