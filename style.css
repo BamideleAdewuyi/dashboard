@@ -152,3 +152,7 @@ input {
     font-weight: bold;
     margin-left: 1em;
 }
+
+#greeting {
+    font-size: small;
+}
