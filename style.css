@@ -172,4 +172,5 @@ input {
     height: 2em;
     text-align: center;
     align-content: center;
+    border-radius: 25%;
 }
