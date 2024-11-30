@@ -144,4 +144,5 @@ input {
 .left {
     display: flex;
     align-items: center;
+    padding-left: 4em;
 }
