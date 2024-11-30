@@ -97,6 +97,10 @@ a {
     height: fit-content;
 }
 
+.projectMainText {
+    color: rgb(122, 125, 130);
+}
+
 .projectIcons {
     display: flex;
     justify-content: flex-end;
