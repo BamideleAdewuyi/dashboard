@@ -140,3 +140,7 @@ input {
     width: 60px;
     height: 60px;
 }
+
+.left {
+    display: flex;
+}
