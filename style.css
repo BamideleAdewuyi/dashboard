@@ -91,6 +91,7 @@ a {
 
 .projectIcons {
     display: flex;
+    justify-content: flex-end;
 }
 
 .projectIcon {
