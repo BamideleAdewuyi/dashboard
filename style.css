@@ -62,6 +62,10 @@ a {
     grid-template-rows: 1fr 9fr;
 }
 
+.mainRight {
+    display: grid;
+}
+
 .whiteImage {
     filter: invert(1);
 }
