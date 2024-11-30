@@ -59,12 +59,12 @@ a {
 
 .mainLeft {
     display: grid;
-    grid-template-rows: 1fr 9fr;
+    grid-template-rows: 1fr 9fr 1fr;
 }
 
 .mainRight {
     display: grid;
-    grid-template-rows: 1fr 4fr 1fr 4fr;
+    grid-template-rows: 1fr 4fr 1fr 4fr 1fr;
 }
 
 .projects {
