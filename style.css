@@ -57,6 +57,10 @@ a {
     background-color: rgb(223, 227, 233);
 }
 
+.mainLeft {
+    display: grid;
+}
+
 .whiteImage {
     filter: invert(1);
 }
