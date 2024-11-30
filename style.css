@@ -119,6 +119,11 @@ a {
     height: 25px;
 }
 
+.eyeIcon {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
 .whiteImage {
     filter: invert(1);
 }
