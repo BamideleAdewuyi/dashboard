@@ -29,6 +29,7 @@ a {
     grid-column: 2 / 3;
     display: grid;
     grid-template-rows: 1fr 1fr;
+    position: relative;
     box-shadow: 0 4px 2px -2px gray;
 }
 
