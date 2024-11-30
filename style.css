@@ -1,7 +1,7 @@
 * {
     padding: 0;
     margin: 0;
-    outline: 1px solid red;
+    /* outline: 1px solid red; */
     font-family: "Roboto", sans-serif;
     box-sizing: border-box;
 }
@@ -130,4 +130,9 @@ input {
 
 .alertBarName {
     font-weight: 600;
+}
+
+.bigMoon {
+    width: 60px;
+    height: 60px;
 }
