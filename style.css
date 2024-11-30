@@ -148,6 +148,10 @@ input {
     padding-left: 3em;
 }
 
+.right {
+    display: flex;
+}
+
 #greeting, #name {
     font-weight: bold;
 }
@@ -158,6 +162,6 @@ input {
 }
 
 #name {
-    font-size:larger;
+    font-size: larger;
     margin-left: 0.7em;
 }
