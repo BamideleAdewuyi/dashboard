@@ -84,6 +84,7 @@ a {
 
 .project {
     display: flex;
+    flex-direction: column;
     background-color: white;
     border-left: 8px solid orange;
     border-radius: 5%;
