@@ -73,6 +73,11 @@ a {
     grid-template-rows: 1fr 1fr 1fr;
 }
 
+.project {
+    background-color: white;
+    border-left: 8px solid orange;
+}
+
 .whiteImage {
     filter: invert(1);
 }
