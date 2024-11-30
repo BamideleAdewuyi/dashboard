@@ -69,6 +69,7 @@ a {
 
 .leftHeading, .announcementHeading, .trendingHeading {
     display: flex;
+    align-items: flex-end;
 }
 
 .projects {
