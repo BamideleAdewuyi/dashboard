@@ -89,6 +89,10 @@ a {
     margin: 15px;
 }
 
+.projectIcons {
+    display: flex;
+}
+
 .whiteImage {
     filter: invert(1);
 }
