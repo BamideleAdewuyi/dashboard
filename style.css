@@ -150,6 +150,7 @@ input {
 
 .right {
     display: flex;
+    align-items: center;
 }
 
 #greeting, #name {
