@@ -286,6 +286,7 @@ input {
 
 .trend {
     display: flex;
+    margin-left: 10px;
 }
 
 .trendImage {
