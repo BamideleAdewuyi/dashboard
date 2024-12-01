@@ -255,3 +255,7 @@ input {
     flex-direction: column;
     background-color: white;
 }
+
+.announcementText {
+    font-size: x-small;
+}
