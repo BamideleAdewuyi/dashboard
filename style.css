@@ -274,6 +274,7 @@ input {
 
 .trends {
     display: flex;
+    flex-direction: column;
     background-color: white;
     border-radius: 2%;
     margin-top: 15px;
