@@ -296,3 +296,7 @@ input {
 .username, .trendDescription {
     font-size: small;
 }
+
+.trendDescription {
+    color: grey;
+}
