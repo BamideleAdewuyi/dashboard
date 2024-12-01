@@ -283,6 +283,10 @@ input {
     box-shadow: 3px 4px 2px -2px gray;
 }
 
+.trend {
+    display: flex;
+}
+
 .trendImage {
     width: 40px;
     height: 40px;
