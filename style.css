@@ -260,7 +260,12 @@ input {
     justify-content: center;
 }
 
+.announceTitle, .announcementText {
+    margin-left: 20px;
+}
+
 .announcementText {
     font-size: x-small;
     margin-bottom: 30px;
+    margin-left: 20px;
 }
