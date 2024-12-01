@@ -101,7 +101,7 @@ a {
     margin-right: 15px;
 }
 
-.projectMainText {
+.projectMainText, .announcementText {
     color: rgb(122, 125, 130);
 }
 
