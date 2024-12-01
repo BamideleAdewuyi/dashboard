@@ -276,4 +276,6 @@ input {
     display: flex;
     background-color: white;
     border-radius: 2%;
+    margin-top: 15px;
+    margin-right: 20px;
 }
