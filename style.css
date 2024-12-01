@@ -302,3 +302,7 @@ input {
 .trendDescription {
     color: grey;
 }
+
+.trendText {
+    align-self: center;
+}
