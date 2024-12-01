@@ -271,3 +271,7 @@ input {
     margin-left: 20px;
     margin-right: 20px;
 }
+
+.trends {
+    display: flex;
+}
