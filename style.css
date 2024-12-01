@@ -281,3 +281,8 @@ input {
     margin-bottom: 15px;
     box-shadow: 3px 4px 2px -2px gray;
 }
+
+.trendImage {
+    width: 25px;
+    height: 25px;
+}
