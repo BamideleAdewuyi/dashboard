@@ -267,7 +267,7 @@ input {
 
 .announcementText {
     font-size: x-small;
-    margin-bottom: 30px;
+    /* margin-bottom: 30px; */
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -309,6 +309,5 @@ input {
 }
 
 hr {
-    margin-left: 20px;
-    margin-right: 20px;
+    margin: 20px;
 }
