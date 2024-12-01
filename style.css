@@ -307,3 +307,8 @@ input {
     align-self: center;
     margin-left: 10px;
 }
+
+hr {
+    margin-left: 20px;
+    margin-right: 20px;
+}
