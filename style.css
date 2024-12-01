@@ -252,4 +252,5 @@ input {
 
 .announcements {
     display: flex;
+    flex-direction: column;
 }
